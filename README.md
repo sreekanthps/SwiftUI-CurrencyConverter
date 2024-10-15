@@ -1,5 +1,5 @@
 # SwiftUI-CurrencyConverter
-Simple SwiftUI currecny convert app 
+Simple SwiftUI currency convert app 
 
 - Display currency converter info based on [api.exchangeratesapi.io](https://api.exchangeratesapi.io/v1/latest)
 - Xcode 15.4
